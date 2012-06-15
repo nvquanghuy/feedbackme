@@ -1,0 +1,7 @@
+Someone wrote you the following feedback:
+
+---
+{{feedback.message}}
+---
+
+Cheers,
